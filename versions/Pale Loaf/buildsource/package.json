@@ -1,0 +1,22 @@
+{
+    "name": "pale_32loaf",
+    "displayName": "Pale Loaf",
+    "version": "1.0.0",
+    "description": "Pale Loaf",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ecosystem:cordova"
+    ],
+    "author": "Code4Freedom",
+    "devDependencies": {
+        "cordova-plugin-ionic-webview": "5.0.0"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-ionic-webview": {}
+        }
+    }
+}
